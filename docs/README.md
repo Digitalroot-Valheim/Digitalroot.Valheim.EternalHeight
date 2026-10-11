@@ -1,7 +1,7 @@
 # Eternal Height
 
-<a href="https://github.com/Digitalroot-Valheim/Digitalroot.Valheim.EternalHeight/releases/latest" target="_blank"><img src="https://badgen.net/github/release/Digitalroot-Valheim/Digitalroot.Valheim.EternalFire/stable"></a>
-<a href="https://github.com/Digitalroot-Valheim/Digitalroot.Valheim.EternalHeight/issues" target="_blank"><img src="https://badgen.net/github/open-issues/Digitalroot-Valheim/Digitalroot.Valheim.EternalFire"></a>
+<a href="https://github.com/Digitalroot-Valheim/Digitalroot.Valheim.EternalHeight/releases/latest" target="_blank"><img src="https://badgen.net/github/release/Digitalroot-Valheim/Digitalroot.Valheim.EternalHeight/stable"></a>
+<a href="https://github.com/Digitalroot-Valheim/Digitalroot.Valheim.EternalHeight/issues" target="_blank"><img src="https://badgen.net/github/open-issues/Digitalroot-Valheim/Digitalroot.Valheim.EternalHeight"></a>
 
 ## Summary
 
